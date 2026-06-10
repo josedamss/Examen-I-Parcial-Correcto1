@@ -1,0 +1,11 @@
+C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Examen I Correcto1\Examen Correcto1\Examen Correcto1\bin\Debug\Examen Correcto1.exe.config
+C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Examen I Correcto1\Examen Correcto1\Examen Correcto1\bin\Debug\Examen Correcto1.exe
+C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Examen I Correcto1\Examen Correcto1\Examen Correcto1\bin\Debug\Examen Correcto1.pdb
+C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Examen I Correcto1\Examen Correcto1\Examen Correcto1\obj\Debug\Examen Correcto1.csproj.AssemblyReference.cache
+C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Examen I Correcto1\Examen Correcto1\Examen Correcto1\obj\Debug\Examen_Correcto1.Form1.resources
+C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Examen I Correcto1\Examen Correcto1\Examen Correcto1\obj\Debug\Examen_Correcto1.Properties.Resources.resources
+C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Examen I Correcto1\Examen Correcto1\Examen Correcto1\obj\Debug\Examen Correcto1.csproj.GenerateResource.cache
+C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Examen I Correcto1\Examen Correcto1\Examen Correcto1\obj\Debug\Examen Correcto1.csproj.CoreCompileInputs.cache
+C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Examen I Correcto1\Examen Correcto1\Examen Correcto1\obj\Debug\Examen Correcto1.exe
+C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Examen I Correcto1\Examen Correcto1\Examen Correcto1\obj\Debug\Examen Correcto1.pdb
+C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Examen I Correcto1\Examen Correcto1\Examen Correcto1\obj\Debug\Examen_Correcto1.FRMResumen.resources

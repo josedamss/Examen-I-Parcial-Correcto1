@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Examen I Correcto1\\Examen Correcto1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{561C231E-7D18-44EA-87B0-F1715C994E75}|Examen Correcto1\\Examen Correcto1.csproj|C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Examen I Correcto1\\Examen Correcto1\\examen correcto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561C231E-7D18-44EA-87B0-F1715C994E75}|Examen Correcto1\\Examen Correcto1.csproj|solutionrelative:examen correcto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{561C231E-7D18-44EA-87B0-F1715C994E75}|Examen Correcto1\\Examen Correcto1.csproj|c:\\users\\elpro\\onedrive\\desktop\\repositorios\\examen i correcto1\\examen correcto1\\examen correcto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{561C231E-7D18-44EA-87B0-F1715C994E75}|Examen Correcto1\\Examen Correcto1.csproj|solutionrelative:examen correcto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{561C231E-7D18-44EA-87B0-F1715C994E75}|Examen Correcto1\\Examen Correcto1.csproj|c:\\users\\elpro\\onedrive\\desktop\\repositorios\\examen i correcto1\\examen correcto1\\examen correcto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{561C231E-7D18-44EA-87B0-F1715C994E75}|Examen Correcto1\\Examen Correcto1.csproj|solutionrelative:examen correcto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{561C231E-7D18-44EA-87B0-F1715C994E75}|Examen Correcto1\\Examen Correcto1.csproj|c:\\users\\elpro\\onedrive\\desktop\\repositorios\\examen i correcto1\\examen correcto1\\examen correcto1\\frmresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{561C231E-7D18-44EA-87B0-F1715C994E75}|Examen Correcto1\\Examen Correcto1.csproj|solutionrelative:examen correcto1\\frmresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C231E-7D18-44EA-87B0-F1715C994E75}|Examen Correcto1\\Examen Correcto1.csproj|c:\\users\\elpro\\onedrive\\desktop\\repositorios\\examen i correcto1\\examen correcto1\\examen correcto1\\frmresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561C231E-7D18-44EA-87B0-F1715C994E75}|Examen Correcto1\\Examen Correcto1.csproj|solutionrelative:examen correcto1\\frmresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Examen I Correcto1\\Examen Correcto1\\Examen Correcto1\\Form1.cs",
-              "RelativeDocumentMoniker": "Examen Correcto1\\Form1.cs",
-              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Examen I Correcto1\\Examen Correcto1\\Examen Correcto1\\Form1.cs",
-              "RelativeToolTip": "Examen Correcto1\\Form1.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "FRMResumen.cs",
+              "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Examen I Correcto1\\Examen Correcto1\\Examen Correcto1\\FRMResumen.cs",
+              "RelativeDocumentMoniker": "Examen Correcto1\\FRMResumen.cs",
+              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Examen I Correcto1\\Examen Correcto1\\Examen Correcto1\\FRMResumen.cs",
+              "RelativeToolTip": "Examen Correcto1\\FRMResumen.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAASwBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T15:33:50.735Z",
+              "WhenOpened": "2026-06-10T15:47:42.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Examen I Correcto1\\Examen Correcto1\\Examen Correcto1\\Form1.cs",
               "RelativeDocumentMoniker": "Examen Correcto1\\Form1.cs",
@@ -44,6 +52,31 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-10T15:25:04.441Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FRMResumen.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Examen I Correcto1\\Examen Correcto1\\Examen Correcto1\\FRMResumen.cs",
+              "RelativeDocumentMoniker": "Examen Correcto1\\FRMResumen.cs",
+              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Examen I Correcto1\\Examen Correcto1\\Examen Correcto1\\FRMResumen.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Examen Correcto1\\FRMResumen.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T15:37:48.511Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Examen I Correcto1\\Examen Correcto1\\Examen Correcto1\\Form1.cs",
+              "RelativeDocumentMoniker": "Examen Correcto1\\Form1.cs",
+              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Examen I Correcto1\\Examen Correcto1\\Examen Correcto1\\Form1.cs",
+              "RelativeToolTip": "Examen Correcto1\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwDQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T15:33:50.735Z",
+              "EditorCaption": ""
             }
           ]
         }
