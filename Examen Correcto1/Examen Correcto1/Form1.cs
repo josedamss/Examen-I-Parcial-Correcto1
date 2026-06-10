@@ -44,14 +44,21 @@ namespace Examen_Correcto1
             {
                 MessageBox.Show("El nombre debe tener al menos 3 caracteres.");
 
-            }else if (txtcedula .Text.Length != 10 )
+            }else if (txtcedula .Text.Length != 13 )
             {
-                MessageBox.Show("La cédula debe tener exactamente 10 dígitos y contener solo números.");
+                MessageBox.Show("La cédula debe tener exactamente 13 dígitos y contener solo números.");
+
+            }else if (txtcell.Text.Length != 8)
+            {
+                MessageBox.Show("El número de celular debe tener exactamente 8 dígitos y contener solo números.");
+
+            }else if (cbcarro.Text == "")
+            {
+                MessageBox.Show("Por favor, seleccione un carro válido de la lista.");
             }
             else
             {
-                FRMResumen frmResumen = new FRMResumen();
-                frmResumen.Show();
+                MessageBox.Show("AUTORENT HN : RESUMEN DE FORMULARIO \n" + "Nombre del Cliente: " + txtnombre.Text + "\nCédula: " + txtcedula.Text + "\nCelular: " + txtcell.Text + "\nCarro: " + cbcarro.Text);
             }
         }
    
